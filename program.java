@@ -1,3 +1,4 @@
+java program
 class FactorialExample{  
  public static void main(String args[]){  
   int i,fact=1;  
